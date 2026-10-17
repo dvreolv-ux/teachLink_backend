@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1859-add-a-record-retention-and-legal-hold-policy",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1859-add-a-record-retention-and-legal-hold-policy": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1859-add-a-record-retention-and-legal-hold-policy",
+    "origin"
+  ]
+}
